@@ -2,3 +2,6 @@ hello! how are you
 hello! welcome to git cli console
 hello! aayushi
 hey! its raning heavy
+{
+intersting commnad
+}
